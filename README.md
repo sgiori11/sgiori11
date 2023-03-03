@@ -1,7 +1,7 @@
 ### Hi hei ciao! 👋
 
-🌱 Currently building a job board that matches Italian startups and founders to IT talent [Nextjs, React, Node] <br>
-⚡ Fun fact: I'm a California gal :ocean: currently living in Italy :it:, and I've also lived in Norway and Ireland. I like to travel, but I <em>love</em> to move :sunglasses: 
+🌱 Just a California gal living in Italy :it:, building a job board that matches Italian startups with IT talent. <br>
+⚡ Current stack: Nextjs, React, Node, CSS/SASS
 
 
 <!--
