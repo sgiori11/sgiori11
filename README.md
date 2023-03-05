@@ -1,7 +1,7 @@
 ### Hi hei ciao! 👋
 
-🌱 Just a California gal living in Italy :it:, building a job board that matches Italian startups with IT talent. <br>
-⚡ Current stack: Nextjs, React, Node, CSS/SASS
+🌱 I'm a California gal living in Italy :it:, building a job board that matches Italian startups with IT talent. <br>
+⚡ Current stack: Nextjs, Supabase, CSS/SASS
 
 
 <!--
